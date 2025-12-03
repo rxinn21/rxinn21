@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Hello everyone! Welcome to my GitHub Profile. I'm Rain, a Sophmore at UT San Antonio majoring in Computer Science with the intent of concentrating in Cyber Operations. I am a creative person who loves inventing and revolutionizing new ideas. I love to look into my community's needs and solve problems that will ease people's day-to-day lives. When I'm not making a hot Caramel Macchiato, I am deep into the world of technology; keeping up with new AI tools, brainstorming ideas, or writing simple code. I love to do it all! ☺️
 
 ### Coding Journey 👩🏻‍💻
-I was introduced to technology at a very young age and have been in love with it ever since. I started with Python, but fell in love with Object-Oriented languages such as Java. Recently, I have been coding more in C, and I'm eager to learn C++ in the future. The current project I'm working on, Starbucks App Redesign, is an idea that came to fruition through my daily experience with customers. It has been an eye-opening journey, and I'm looking forward to expanding the project as I gain new skills throughout my journey. 
+I was introduced to technology at a very young age and have been in love with it ever since. I started with Python, but fell in love with Object-Oriented languages such as Java. Recently, I have been coding more in C, and I'm eager to learn C++ in the future. The current project I'm working on, Starbucks App Redesign, is an idea that came to fruition through my daily experience with customers. It has been an eye-opening journey, and I'm looking forward to expanding the project as I gain new skills throughout my career. 
 
 ## Tech Skills and Interests 💻
 - **Languages:** Java (Core), C (Learning), JavaScript/React (Interested)
