@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner Image](<img width="1384" height="1846" alt="image" src="https://github.com/user-attachments/assets/36c55d96-6179-426a-ba6a-de689a632bfb" />)
+![Banner Image]()
 <!--
 **rxinn21/rxinn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +41,7 @@ I was introduced to technology at a very young age and have been in love with it
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/rositzadineva" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/rositza-dineva" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
 <a href="mailto:rositzadineva28@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
 <a href="https://instagram.com/hyeto_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" /></a>
 </p>
