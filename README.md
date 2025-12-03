@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banner Image](https://photos.fife.usercontent.google.com/pw/AP1GczNGfBgFPknnVtd9_WuaJjRq2uEFfe4QkRM5EHp4zVOtUWvGdJ0ILO9i=w1384-h1846-s-no-gm?authuser=0)
+![Banner Image](<img width="1384" height="1846" alt="image" src="https://github.com/user-attachments/assets/36c55d96-6179-426a-ba6a-de689a632bfb" />)
 <!--
 **rxinn21/rxinn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,18 +24,18 @@ Hello everyone! Welcome to my GitHub Profile. I'm Rain, a Sophmore at UT San Ant
 I was introduced to technology at a very young age and have been in love with it ever since. I started with Python, but fell in love with Object-Oriented languages such as Java. Recently, I have been coding more in C, and I'm eager to learn C++ in the future. The current project I'm working on, Starbucks App Redesign, is an idea that came to fruition through my daily experience with customers. It has been an eye-opening journey, and I'm looking forward to expanding the project as I gain new skills throughout my journey. 
 
 ## Tech Skills and Interests 💻
-**Languages:** Java (Core), C (Learning), JavaScript/React (Interested)
-**Tools:** Claude AI, IntelliJ, Git, VS Code, CLion
-**Interests:** Cyber offense, digital forensics, software development, cybersecurity
+- **Languages:** Java (Core), C (Learning), JavaScript/React (Interested)
+- **Tools:** Claude AI, IntelliJ, Git, VS Code, CLion
+- **Interests:** Cyber offense, digital forensics, software development, cybersecurity
 
 ## What I'm Working On 🔨
-**☕️ Enhancing the Starbucks App and making it more intuitive for customers (ask me more about this!)** 
-**🧩 Learning API's**
+- **☕️ Enhancing the Starbucks App and making it more intuitive for customers (ask me more about this!)** 
+- **🧩 Learning API's**
 
 ### 🛠 Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,c,git,intellij" />
+    <img src="https://skillicons.dev/icons?i=c,java,git,intellij" />
   </a>
 </p>
 
