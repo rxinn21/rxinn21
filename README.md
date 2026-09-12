@@ -40,6 +40,10 @@ Somewhere along my computer science journey, cybersecurity became the thing I co
 
 ### Operating Systems
 ![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C89?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge)
+
+### SIEM
+![Wazuh](https://img.shields.io/badge/WAZUH-3AAFA9?style=for-the-badge)
 
 ### Protocols / Clients
 ![FTP](https://img.shields.io/badge/FTP-6B7280?style=for-the-badge)
