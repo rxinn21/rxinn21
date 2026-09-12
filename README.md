@@ -25,7 +25,6 @@ I am a Junior at UT San Antonio, majoring in Computer Science with a concentrati
 Somewhere along my computer science journey, cybersecurity became the thing I couldn't stop thinking about, and now I'm working toward my goal of landing a Tier 1 Analyst role in a Security Operations Center (SOC).
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -36,15 +35,15 @@ Somewhere along my computer science journey, cybersecurity became the thing I co
 ## Tools
 
 ### Network 
-<span style="background:#3B6E91;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;">WIRESHARK</span>
-<span style="background:#3B6E91;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;">NMAP</span>
+![Wireshark](https://img.shields.io/badge/WIRESHARK-3B6E91?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/NMAP-3B6E91?style=for-the-badge)
 
 ### Operating Systems
-<span style="background:#557C89;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;">KALI LINUX</span>
+![Kali Linux](https://img.shields.io/badge/KALI%20LINUX-557C89?style=for-the-badge)
 
 ### Protocols / Clients
-<span style="background:#6B7280;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;">FTP</span>
-<span style="background:#6B7280;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;">TELNET</span>
+![FTP](https://img.shields.io/badge/FTP-6B7280?style=for-the-badge)
+![Telnet](https://img.shields.io/badge/TELNET-6B7280?style=for-the-badge)
 
 ## Certifications
 ***in progress...***
