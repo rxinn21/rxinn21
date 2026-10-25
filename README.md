@@ -43,7 +43,8 @@ Somewhere along my computer science journey, cybersecurity became the thing I co
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge)
 
 ### SIEM
-![Wazuh](https://img.shields.io/badge/WAZUH-3AAFA9?style=for-the-badge)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge)
+![Uptime Kuma](https://img.shields.io/badge/UPTIME_KUMA-5CDD8B?style=for-the-badge)
 
 ### Protocols / Clients
 ![FTP](https://img.shields.io/badge/FTP-6B7280?style=for-the-badge)
